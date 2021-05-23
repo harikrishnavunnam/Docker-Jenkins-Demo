@@ -2,7 +2,7 @@ pipeline {
 
   environment {
 
-    registry = "harikrishnavunnam/demoproject"
+    registry = "hari1988/classproject-1"
 
     registryCredential = 'docker-creds'
 
